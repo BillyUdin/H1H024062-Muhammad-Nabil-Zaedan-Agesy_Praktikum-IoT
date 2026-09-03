@@ -158,7 +158,7 @@ Pada percobaan kedua, ESP32 menggunakan hasil pembacaan suhu DHT11 untuk menentu
 ## 🔹 Skematik Percobaan 1 — DHT11
 
 <p align="center">
-  <img src="./Skematik%20Rangkaian/Percobaan%201.png" width="750" alt="Skematik DHT11">
+  <img src="./Skematik%20Rangkaian/Percobaan1.png" width="750" alt="Skematik DHT11">
 </p>
 
 Sensor DHT11 terhubung ke ESP32 dengan pin data pada `GPIO 4`.
