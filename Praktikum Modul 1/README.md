@@ -168,7 +168,7 @@ Sensor DHT11 terhubung ke ESP32 dengan pin data pada `GPIO 4`.
 ## 🔹 Skematik Percobaan 2 — DHT11 + Relay
 
 <p align="center">
-  <img src="./Skematik%20Rangkaian/percobaan2.png" width="750" alt="Skematik DHT11 dan Relay">
+  <img src="./Skematik%20Rangkaian/Percobaan2.png" width="750" alt="Skematik DHT11 dan Relay">
 </p>
 
 Pada rangkaian ini, pin kendali relay dihubungkan ke `GPIO 14` ESP32.
@@ -328,7 +328,7 @@ Hasil pengamatan menunjukkan bahwa perubahan kondisi lingkungan di sekitar senso
 ## 📊 Percobaan 1
 
 <p align="center">
-  <img src="./Dokumentasi/Serial%20MOnitor1.png" width="750" alt="Serial Monitor Percobaan 1">
+  <img src="./Dokumentasi/Serial%20Monitor%201.png" width="750" alt="Serial Monitor Percobaan 1">
 </p>
 
 ---
@@ -336,7 +336,7 @@ Hasil pengamatan menunjukkan bahwa perubahan kondisi lingkungan di sekitar senso
 ## 📊 Percobaan 2
 
 <p align="center">
-  <img src="./Skematik%20Rangkaian/Percobaan2.png" width="750" alt="Skematik DHT11 + Relay">
+  <img src="./Dokumentasi/Serial%20monitor%202.png" width="750" alt="Serial Monitor Percobaan 2">
 </p>
 
 ---
@@ -388,14 +388,14 @@ Praktikum Modul 1/
 ├── 📄 README.md
 │
 ├── 📂 Dokumentasi/
-│   ├── 🖼️ Percobaan1.jpeg
-│   ├── 🖼️ Percobaan2.jpeg
-│   ├── 🖼️ Serial MOnitor1.png
-│   └── 🖼️ Serial Monitor2.png
+│   ├── 🖼️ Percobaan Relay 2.jpg
+│   ├── 🖼️ Percobaan Tanpa Relay1.jpg
+│   ├── 🖼️ Serial Monitor 1.png
+│   └── 🖼️ Serial monitor 2.png
 │
 ├── 📂 Skematik Rangkaian/
-│   ├── 🖼️ percobaan1.png
-│   └── 🖼️ percobaan2.png
+│   ├── 🖼️ Percobaan1.png
+│   └── 🖼️ Percobaan2.png
 │
 └── 📂 Source Code/
     ├── 💻 percobaan1.ino
