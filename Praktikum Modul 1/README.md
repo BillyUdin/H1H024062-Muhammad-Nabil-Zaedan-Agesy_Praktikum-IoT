@@ -336,7 +336,7 @@ Hasil pengamatan menunjukkan bahwa perubahan kondisi lingkungan di sekitar senso
 ## 📊 Percobaan 2
 
 <p align="center">
-  <img src="./Dokumentasi/Serial%20Monitor2.png" width="750" alt="Serial Monitor Percobaan 2">
+  <img src="./Skematik%20Rangkaian/Percobaan2.png" width="750" alt="Skematik DHT11 + Relay">
 </p>
 
 ---
