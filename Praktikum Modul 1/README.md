@@ -78,7 +78,7 @@ Praktikum ini bertujuan untuk memahami proses akuisisi data sensor dan pengendal
 ## 1️⃣ Rangkaian DHT11 — Tanpa Relay
 
 <p align="center">
-  <img src="./Dokumentasi/Percobaan1.jpeg" width="750" alt="Rangkaian DHT11 Tanpa Relay">
+  <img src="./Dokumentasi/Percobaan%20Tanpa%20Relay1.jpg" width="750" alt="Rangkaian DHT11 Tanpa Relay">
 </p>
 
 Rangkaian pertama digunakan untuk membaca suhu dan kelembaban dari sensor DHT11 menggunakan ESP32.
@@ -113,7 +113,7 @@ Rangkaian pertama digunakan untuk membaca suhu dan kelembaban dari sensor DHT11 
 ## 2️⃣ Rangkaian DHT11 + Relay
 
 <p align="center">
-  <img src="./Dokumentasi/Percobaan2.jpeg" width="750" alt="Rangkaian DHT11 Dengan Relay">
+  <img src="./Dokumentasi/Percobaan%20Relay%202.jpg" width="750" alt="Rangkaian DHT11 Dengan Relay">
 </p>
 
 Pada percobaan kedua, ESP32 menggunakan hasil pembacaan suhu DHT11 untuk menentukan kondisi relay berdasarkan nilai threshold.
@@ -158,7 +158,7 @@ Pada percobaan kedua, ESP32 menggunakan hasil pembacaan suhu DHT11 untuk menentu
 ## 🔹 Skematik Percobaan 1 — DHT11
 
 <p align="center">
-  <img src="./Skematik%20Rangkaian/percobaan1.png" width="750" alt="Skematik DHT11">
+  <img src="./Skematik%20Rangkaian/Percobaan%201.png" width="750" alt="Skematik DHT11">
 </p>
 
 Sensor DHT11 terhubung ke ESP32 dengan pin data pada `GPIO 4`.
