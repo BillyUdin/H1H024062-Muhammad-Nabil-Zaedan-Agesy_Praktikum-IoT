@@ -21,7 +21,7 @@
 | 👤 Nama | **Muhammad Nabil Zaedan Agesy** |
 | 🆔 NIM | **H1H024062** |
 | 🎓 Program Studi | **Teknik Komputer** |
-| 📖 Mata Kuliah | **Sistem Internet of Things** |
+| 📖 Mata Kuliah | **Internet of Things** |
 | 📦 Modul | **Modul 1** |
 
 ---
